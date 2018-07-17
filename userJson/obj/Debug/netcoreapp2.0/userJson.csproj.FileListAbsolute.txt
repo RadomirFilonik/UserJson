@@ -1,0 +1,11 @@
+D:\VisualStudio\userJson\userJson\bin\Debug\netcoreapp2.0\userJson.deps.json
+D:\VisualStudio\userJson\userJson\bin\Debug\netcoreapp2.0\userJson.runtimeconfig.json
+D:\VisualStudio\userJson\userJson\bin\Debug\netcoreapp2.0\userJson.runtimeconfig.dev.json
+D:\VisualStudio\userJson\userJson\bin\Debug\netcoreapp2.0\userJson.dll
+D:\VisualStudio\userJson\userJson\bin\Debug\netcoreapp2.0\userJson.pdb
+D:\VisualStudio\userJson\userJson\obj\Debug\netcoreapp2.0\userJson.csproj.CoreCompileInputs.cache
+D:\VisualStudio\userJson\userJson\obj\Debug\netcoreapp2.0\userJson.AssemblyInfoInputs.cache
+D:\VisualStudio\userJson\userJson\obj\Debug\netcoreapp2.0\userJson.AssemblyInfo.cs
+D:\VisualStudio\userJson\userJson\obj\Debug\netcoreapp2.0\userJson.dll
+D:\VisualStudio\userJson\userJson\obj\Debug\netcoreapp2.0\userJson.pdb
+D:\VisualStudio\userJson\userJson\obj\Debug\netcoreapp2.0\userJson.csprojAssemblyReference.cache
